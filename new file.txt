@@ -1,2 +1,2 @@
 I'm pushing this downnnnn
-New file
+New file - I want to simulate a merge conflict
